@@ -1,0 +1,51 @@
+ore {
+  content: "\ea4e";
+}
+
+.ni-single-copy-04::before {
+  content: "\ea4f";
+}
+
+.ni-sound-wave::before {
+  content: "\ea50";
+}
+
+.ni-spaceship::before {
+  content: "\ea51";
+}
+
+.ni-square-pin::before {
+  content: "\ea52";
+}
+
+.ni-support-16::before {
+  content: "\ea53";
+}
+
+.ni-tablet-button::before {
+  content: "\ea54";
+}
+
+.ni-tag::before {
+  content: "\ea55";
+}
+
+.ni-tie-bow::before {
+  content: "\ea56";
+}
+
+.ni-time-alarm::before {
+  content: "\ea57";
+}
+
+.ni-trophy::before {
+  content: "\ea58";
+}
+
+.ni-tv-2::before {
+  content: "\ea59";
+}
+
+.ni-umbrella-13::before {
+  content: "\ea5a";
+}

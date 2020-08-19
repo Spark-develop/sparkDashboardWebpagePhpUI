@@ -1,0 +1,54 @@
+/*--------------------------------
+
+hermes-dashboard-icons Web Font - built using nucleoapp.com
+License - nucleoapp.com/license/
+
+-------------------------------- */
+@font-face {
+  font-family: 'NucleoIcons';
+  src: url('../fonts/nucleo-icons.eot');
+  src: url('../fonts/nucleo-icons.eot') format('embedded-opentype'), url('../fonts/nucleo-icons.woff2') format('woff2'), url('../fonts/nucleo-icons.woff') format('woff'), url('../fonts/nucleo-icons.ttf') format('truetype'), url('../fonts/nucleo-icons.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*------------------------
+    base class definition
+-------------------------*/
+.ni {
+  display: inline-block;
+  font: normal normal normal 14px/1 NucleoIcons;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*------------------------
+  change icon size
+-------------------------*/
+.ni-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+
+.ni-2x {
+  font-size: 2em;
+}
+
+.ni-3x {
+  font-size: 3em;
+}
+
+.ni-4x {
+  font-size: 4em;
+}
+
+.ni-5x {
+  font-size: 5em;
+}
+
+/*----------------------------------
+  add a square/circle background
+-----------------------------------*/
